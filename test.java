@@ -7,6 +7,6 @@ public static void main(args[]){
    system.out.print("Hello Sudha  Saravanan, welcome")
 
    system.out.print("==========================")
-   system.out.print("============hello==============")
+   system.out.print("============hello all==============")
 
 }
